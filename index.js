@@ -1,10 +1,12 @@
 const { readFile, writeFile } = require('fs').promises;
 const { Client} = require('fnbr');
-const config = JSON.parse(await readFile('./config.json'));
 
 
 
 (async () => {
+  
+  const config = JSON.parse(await readFile('./config.json'));
+
   
   let auth;
   try {

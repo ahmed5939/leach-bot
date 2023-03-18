@@ -1,0 +1,8 @@
+{
+  "idle_stuats": "Idle",
+  "busy_stuats": "Busy",
+  "time_before_leave":2, 
+  "join_message": "Join Message",
+  "leave_message": "Leave Message"
+
+}

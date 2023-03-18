@@ -1,25 +1,25 @@
 
 
 
-fortinte stw leach-bot 
+<h1>fortinte stw leach-bot </h1>
 
 <br />
 <hr />
 
-<h2>after Installing</h2>
+<h2>After Installing the files</h2>
 
-run this in terminal for downloading dependencies.
+run this in the terminal to download all required dependencies.
 ```
 npm i 
 ```
-after installing dependencies run this to start the bot.
+Run this to launch the bot once requirements have been installed.
 
 ```
 npm run
 ```
 
 <h2>customizations</h2>
- for cuztomizing the bot you need to change config.json file.
+ You need to edit the config.json file to customize the program.
  
 ```
 {
@@ -40,6 +40,6 @@ npm run
 - [Discord](https://discord.gg/NPjyABF9S6)
 
 <h2>License</h2>
-GNU License
+GNU General Public License v3.0
 
 Copyright (c) 2023 Ahmed

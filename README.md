@@ -15,7 +15,7 @@ npm i
 Run this to launch the bot once requirements have been installed.
 
 ```
-npm run
+npm start
 ```
 
 <h2>customizations</h2>

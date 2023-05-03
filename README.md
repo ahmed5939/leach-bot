@@ -75,7 +75,7 @@ npm start
 If you need help with the bot, you can join the discord server or contact me on twitter.
 
 - [twitter](https://twitter.com/ahmadsabir11)
-- [Discord](https://discord.gg/NPjyABF9S6)
+- [Discord](https://discord.com/invite/yNjT8xr3eG)
 
 
 

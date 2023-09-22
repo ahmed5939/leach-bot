@@ -37,6 +37,10 @@ let queue = [];
   function busy() {
     client.setStatus(config.busy_stuats);
     
+    welcomeTimeout = setTimeout(() => {
+      client.party.sendMessage(config.join_message);
+    }, 2000);
+    
     warnTimeout= setTimeout(() => {
       client.party.sendMessage(config.leave_message);
     }, config.time_before_leave*60000);

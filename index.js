@@ -54,7 +54,7 @@ let queue = [];
         } catch (error) {
           console.log(error);
           queue.shift();
-          client,clearTimeout(warnTimeout);
+          client.clearTimeout(warnTimeout);
           client.clearTimeout(leaveTimeout);
         }
       }  else {

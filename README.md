@@ -1,86 +1,74 @@
+# 🤖 Fortnite STW Leach-Bot 🎮
 
+---
 
+## What is this? 🤔
 
-<h1>fortinte stw leach-bot </h1>
-<br />
-<hr />
+Welcome to the world of the Fortnite STW Leach-Bot, your new best friend in gaming! 🌟 This clever little bot is like a ninja 🥷 - it sneakily joins your lobby, hangs out for a bit, and then poof! It disappears after a set time. It's perfect for those who need a leech or taxi bot in Fortnite. No more solo missions! 🎉
 
-<h2>What is this?</h2>
+## Futures (No, not the stock market kind!) 🚀
 
-The Fortnite STW Leach-Bot is a bot that can automatically join your lobby and then leave after a specified period of time. This bot is particularly useful for creating leech or taxi bots in Fortnite.
+- [x] Auto join (like a boss!)
+- [x] Auto leave (sneaky exit!)
+- [x] Auto accept friend request (making friends has never been easier!)
+- [x] Advanced queue system (because waiting in line is so 2020)
+- [x] Customizable join and leave messages (say it with style! 💬)
+- [x] Customizable idle and busy status (like your own away message!)
+- [x] Customizable time before leaving (because timing is everything!)
 
+## Version 📦
 
+- [x] 1.1.0 (Now with more awesomeness!)
 
-<h2>Futures</h2>
+## How to use? 🛠️
 
+1. Download the files (the treasure! 🏴‍☠️)
+2. Install the prerequisite (the magic potion! 🧪)
+3. Tweak the config.json file (customize it like your favorite pizza 🍕)
+4. Run the bot (let the games begin! 🎲)
+5. Enjoy (and dominate! 😎)
 
-- [x] Auto join 
-- [x] Auto leave
-- [x] Auto accept friend request
-- [x] Advanced queue system
-- [x] Customizable join and leave messages
-- [x] Customizable idle and busy status
-- [x] Customizable time before leaving
+## Prerequisite (The Secret Sauce) 🌟
 
-<h2>version</h2>
+- [Node.js](https://nodejs.org/en/) (The backbone of our bot!)
 
-- [x] 1.1.0
+## Starting The Bot 🚀
 
+To get this party started:
 
-<h2>How to use?</h2>
-
-- Download the files
-- Install the prerequisite
-- Edit the config.json file
-- Run the bot
-- Enjoy
-
-
-
-<h2>prerequisite</h2>
-
-- [Node.js](https://nodejs.org/en/)
-
-
-<h2>Starting The Bot</h2>
-
-Run this in the terminal to download all required dependencies.
-```
+\`\`\`
 npm i 
-```
-Run this to launch the bot once requirements have been installed.
+\`\`\`
 
-```
+And to launch our robotic superstar:
+
+\`\`\`
 npm start
-```
+\`\`\`
 
-<h2>customizations</h2>
- You need to edit the config.json file to customize the program.
- 
-```
+## Customizations (Make it Yours!) ✨
+
+Get creative and edit the config.json file:
+
+\`\`\`json
 {
-  "idle_stuats": "Idle",
-  "busy_stuats": "Busy",
-  "time_before_leave":2, // in minutes
-  "join_message": "Join Message",
-  "leave_message": "Leave Message" // 
-
+  "idle_status": "Chilling", // 🛌
+  "busy_status": "On a Mission", // 🎯
+  "time_before_leave": 2, // in minutes ⏰
+  "join_message": "What's up, gamers!", // 👋
+  "leave_message": "Adios, amigos!" // 👋
 }
+\`\`\`
 
-```
+## Support (We've Got Your Back!) 💪
 
+Need help with your new bot buddy? Hit us up:
 
-<h2>Support</h2>
+- 🐦 [Twitter](https://twitter.com/ahmadsabir11)
+- 🎧 [Discord](https://discord.com/invite/yNjT8xr3eG)
 
-If you need help with the bot, you can join the discord server or contact me on twitter.
+## License (The Official Stuff) 📜
 
-- [twitter](https://twitter.com/ahmadsabir11)
-- [Discord](https://discord.com/invite/yNjT8xr3eG)
-
-
-
-
-<h2>License</h2>
 GNU General Public License v3.0
 
 Copyright (c) 2023 Ahmed

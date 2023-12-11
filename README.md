@@ -50,7 +50,7 @@ npm start
 
 Get creative and edit the config.json file:
 
-\`\`\`json
+```json
 {
   "idle_status": "Chilling", // 🛌
   "busy_status": "On a Mission", // 🎯
@@ -58,7 +58,7 @@ Get creative and edit the config.json file:
   "join_message": "What's up, gamers!", // 👋
   "leave_message": "Adios, amigos!" // 👋
 }
-\`\`\`
+```
 
 ## Support (We've Got Your Back!) 💪
 

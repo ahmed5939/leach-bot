@@ -36,15 +36,15 @@ Welcome to the world of the Fortnite STW Leach-Bot, your new best friend in gami
 
 To get this party started:
 
-\`\`\`
+```
 npm i 
-\`\`\`
+```
 
 And to launch our robotic superstar:
 
-\`\`\`
+```
 npm start
-\`\`\`
+```
 
 ## Customizations (Make it Yours!) ✨
 

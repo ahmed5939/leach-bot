@@ -63,9 +63,7 @@ Get creative and edit the config.json file:
 ## Support (We've Got Your Back!) 💪
 
 Need help with your new bot buddy? Hit us up:
-
-- 🐦 [Twitter](https://twitter.com/ahmadsabir11)
-- 🎧 [Discord](https://discord.com/invite/yNjT8xr3eG)
+not anymore 
 
 ## License (The Official Stuff) 📜
 
